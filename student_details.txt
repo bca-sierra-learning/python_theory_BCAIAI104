@@ -1,0 +1,10 @@
+101      Aarav Sharma            78     92       85              74        88    
+102      Diya Patel              85     76       90              82        79    
+103      Rohan Mehta             66     81       72              69        91    
+104      Ananya Iyer             92     88       94              90        95    
+105      Karthik Reddy           71     95       89              65        84    
+106      Sneha Nair              88     67       78              86        73    
+107      Vikram Singh            59     74       68              71        80   
+108      Priya Krishnan          94     90       87              93        89    
+109      Arjun Das               73     62       70              77        68    
+110      Meera Joshi             81     86       83              79        92
